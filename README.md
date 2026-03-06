@@ -1,16 +1,13 @@
-# Airbnb-Price-Analysis-Tableau-Dashboard
-Interactive Airbnb price analysis dashboard created in Tableau Public to visualize pricing trends, listing counts, and geographical distribution of properties.
+📊 Airbnb Price Analysis Dashboard | Tableau Project
 
+I recently worked on this project where I analyzed Airbnb listing data and built an interactive dashboard using Tableau.
 
-# Airbnb Price Analysis Dashboard
+The goal was to explore how Airbnb prices vary across different locations and understand patterns within the data. By visualizing the information in a dashboard, it becomes much easier to compare prices, identify trends, and see how different areas perform.
 
-This project analyzes Airbnb listing prices using Tableau.
+This project helped me practice turning raw data into clear visual insights and improving my skills in data visualization and dashboard design.
 
-The dashboard provides insights into:
-• Average price per bedroom
-• Price distribution by zipcode
-• Listing counts by bedroom
-• Revenue trends over time
+You can explore the interactive dashboard here:
+https://public.tableau.com/shared/KDDYH8N5D?:display_count=n&:origin=viz_share_link
 
 Tools Used:
 - Tableau Public
